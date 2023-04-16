@@ -1,0 +1,201 @@
+/*SELECTORS*/
+
+body {
+  background-color: #EAF4F5;
+  color: rgb(39, 37, 37);
+  font-size: 20px;
+  font-family: 'Alegreya', serif;
+  margin: 0px 0px 0px 8px;
+}
+
+hr {
+  border-width: 10px;
+  border-style: none none dotted;
+  width: 5%;
+  border-color: #767377;
+}
+
+h1 {
+  color: #61B4B5;
+  font-family: 'BioRhyme', serif;
+}
+
+h3 {
+  color: #61B4B5;
+  font-family: 'BioRhyme', serif;
+}
+
+h2 {
+  color: #61B4B5;
+  font-family: 'BioRhyme', serif;
+}
+
+/*CLASSES*/
+
+.Header {
+  border: 3px;
+  border-style: solid none solid;
+  border-color: #61B4B5;
+  border-collapse: collapse;
+  background-color: white;
+  margin-left: -8px;
+}
+
+.BorderHeader {
+  border: 3px;
+  border-style: none solid none none;
+  border-color: #61B4B5;
+}
+
+.Fasele {
+  padding-left: 10px;
+  width: 100%;
+}
+
+.Logo {
+  width: 100px;
+  height: 100px;
+}
+
+.list {
+  font-size: 30px;
+  position: absolute;
+}
+.Asl {
+  font-size: 40px;
+}
+
+.BorderHeader:hover {
+  background-image: url(https://cdn.discordapp.com/attachments/874629193432989706/1089540060631814275/Changed.png);
+}
+
+.logoimg:hover {
+  opacity: 0;
+}
+
+.Beb {
+  opacity: 0;
+  background-color: red;
+}
+
+.Bob {
+  background-color: blue;
+}
+
+.imgexa {
+  position: relative;
+  top: 5px;
+}
+
+.Arrow {
+  width: 200px;
+  height: 100px;
+  position: relative;
+  right: 10px;
+
+}
+
+.wellcome {
+  position: relative;
+  left: 25px;
+  display: inline-block;
+}
+
+.title {
+  width: 8%;
+  margin: 20px auto 20px auto;
+}
+
+.menu {
+  text-align: center;
+  position: relative;
+}
+
+.Asl {
+  position: absolute;
+  top: 300px;
+}
+
+.arrow2 {
+  width: 600px;
+  height: 100px;
+  position: absolute;
+  left: 260px;
+  top: 135px;
+
+}
+.Html {
+  position: absolute;
+  left: 700px;
+  top: 220px;
+}
+.Css {
+  position: absolute;
+  left: 708px;
+  top: 319px;
+}
+.JavaScript {
+  position: absolute;
+  left: 676px;
+  top: 420px;
+}
+.span1 {
+  background-color: red;
+}
+.span2 {
+  color: blue;
+}
+.boxofimg {
+  position: relative;
+  height: 500px;
+}
+.plus {
+  width: 100px;
+  position: absolute;
+  left: 520px;
+  top: 225px;
+}
+.first {
+  position: absolute;
+  top: 100px;
+}
+.secend {
+  position: absolute;
+  top: 100px;
+  left: 680px;
+}
+.equal {
+  width: 100px;
+  position: absolute;
+  top: 225px;
+  left: 1202px;
+}
+.third {
+  position: absolute;
+  top: 100px;
+  right: 114px;
+}
+.boxmodel {
+  position: relative;
+}
+.boxtext {
+  margin-bottom: 40px;
+}
+.boximg {
+  width: 300px;
+  position: absolute;
+  top: 40px;
+  right: 500px;
+}
+.textkhas {
+  margin-top: 30px;
+}
+.code {
+  color: blue;
+}
+/*Ids*/
+
+#CssLogo {
+  width: 140px;
+  height: 180px;
+}
